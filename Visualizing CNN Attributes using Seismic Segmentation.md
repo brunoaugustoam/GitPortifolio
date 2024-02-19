@@ -1,6 +1,6 @@
 # Learning to Visualize Attribute Maps of trained models
 
-Disclosing the Magic of Convolutional Neural Networks While traditional algorithms might leave us with clear roadmaps to their conclusions, deep learning models often act like mysterious oracles, spitting out accurate results without revealing their inner workings. But don't despair; convolutional neural networks (CNNs) are just partially mysterious! Let's peek under the hood and see how these AI wizards learn to see the world.
+Disclosing the Magic of Convolutional Neural Networks. While traditional algorithms might leave us with clear roadmaps to their conclusions, deep learning models often act like mysterious oracles, spitting out accurate results without revealing their inner workings. But don't despair; convolutional neural networks (CNNs) are just partially mysterious! Let's peek under the hood and see how these AI wizards learn to see the world.
 
 ![Alt Text](/Visualizacao/gandalf.gif)
 
